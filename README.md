@@ -1,7 +1,7 @@
 Multi-label classification
 
 # Multi-label classification이란?
-- 두 이ㅇ의 선택지에서 여러 객체를 분류하는 기법
+- 두 이상의 선택지에서 여러 객체를 분류하는 기법
 - Loss function -> Binary Cross Entropy
 - Sigmoid threshold 0.5
 
